@@ -1,4 +1,4 @@
-# bluetooth
+# Raspberry Pi 3 Baremetal Bluetooth via Ultibo
 Expanded bluetooth for Ultibo
 
 Initial UART and USB versions
